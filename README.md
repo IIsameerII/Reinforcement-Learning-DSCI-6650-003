@@ -6,11 +6,6 @@ This repository contains the code and analysis for computing value functions in 
 
 - **part1.ipynb**: Jupyter notebook containing the implementation and analysis of SARSA and Q-Learning algorithms applied to the gridworld environment. This notebook includes the policy derived from both methods and visualizations of the sum of rewards over episodes.
 - **part2.ipynb**: Jupyter notebook covering the implementation of Gradient Monte Carlo and Semi-gradient TD(0) methods. This notebook also compares the value functions obtained from these methods against the exact value function computed using dynamic programming.
-- **Images**: The folder contains heatmaps of the value functions computed using different methods:
-
-  - `exact_value_function.png`: Heatmap of the Exact Value Function computed using Dynamic Programming Approach.
-  - `gradient_monte_carlo.png`: Heatmap of the Value Function computed using the Gradient Monte Carlo Method.
-  - `semi_gradient_td.png`: Heatmap of the Value Function computed using the Semi-Gradient TD(0) Method.
 
 ## Methods Overview
 
